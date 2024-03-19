@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "preferGlobal": true,
-  "bin": "C:/Users/hshir/Desktop/MODIFIED M2 FOR M4/turners-app/src/Database-CLI/commands.js",
+  "bin": "turners-app/src/Database-CLI/commands.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
